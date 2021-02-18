@@ -6,8 +6,9 @@
   git remote add origin "link repo remote (sau khi tạo repo remote sẽ có link của repo đó)"
 6/ add file
   git add tên-file
+  // git add . (add tất cả các file kể cả đã sửa hoặc thêm mới của local repo)
 7/ commit sau khi add để biết rằng mình đã add file gì lên
-  git commit -m"commit"á
+  git commit -m"commit"
 8/ push file dùng lệnh
   git push origin 'tên branch(branch chính là master)' //có thể tạo nhiều branch khác nhau
 /// add repo nào thì cần vào đúng repo mình muốn add lên sử dụng command prompt
