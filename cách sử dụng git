@@ -1,0 +1,13 @@
+1/ tạo thư mục trên máy local
+2/ sử dụng command prompt chọn thư mục cần tạo repo
+3/ gõ git init để tạo repo của thư mục đó
+4/ tạo repo remote trên web github.com
+5/ liên kết repo local với repo remote bằng lệnh
+  git remote add origin "link repo remote (sau khi tạo repo remote sẽ có link của repo đó)"
+6/ add file
+  git add tên-file
+7/ commit sau khi add để biết rằng mình đã add file gì lên
+  git commit -m"commit"á
+8/ push file dùng lệnh
+  git push origin 'tên branch(branch chính là master)' //có thể tạo nhiều branch khác nhau
+/// add repo nào thì cần vào đúng repo mình muốn add lên sử dụng command prompt
