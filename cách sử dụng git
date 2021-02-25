@@ -13,5 +13,6 @@
   git push origin 'tên branch(branch chính là master)' //có thể tạo nhiều branch khác nhau
 /// add repo nào thì cần vào đúng repo mình muốn add lên sử dụng command prompt
 
-
+9/ clone 
+git clone 'link repo .git'
 link: https://www.youtube.com/watch?v=z-BDl0SBtgo
